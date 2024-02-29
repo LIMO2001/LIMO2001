@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I’m LIMO2001
+# 👋 Hi, I’m LIMO DUKE
 ## 👀 I’m interested in WEB,ANDROID DATA SCIENCE AND AI
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LIMO2001&show_icons=true&theme=radical)
